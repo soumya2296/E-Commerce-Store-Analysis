@@ -1,4 +1,5 @@
-📊 E-Commerce Store Analysis — Power BI 📌 Overview
+📊 E-Commerce Store Analysis — Power BI
+📌 Overview
 
 This project focuses on analyzing an e-commerce store’s sales, customer behavior, and product performance using Power BI. The goal was to create an interactive dashboard that answers key business questions and helps in data-driven decision-making.
 
@@ -52,6 +53,11 @@ Leveraged a variety of customized visualizations — bar charts, pie charts, don
 
 📌 Conclusion
 
-The project successfully addressed the key business questions regarding the e-commerce store’s performance. The interactive Power BI dashboard provides actionable insights into sales trends, customer behavior, and product performance, empowering data-driven decision-making. Detailed results and findings are documented in the result.txt file.
+The project successfully addressed the key business questions regarding the e-commerce store’s performance.
+The interactive Power BI dashboard provides actionable insights into sales trends, customer behavior, and product performance, empowering data-driven decision-making.
+Detailed results and findings are documented in the result.txt file.
 
-📷 Dashboard Preview image
+📷 Dashboard Preview
+<img width="604" height="339" alt="image" src="https://github.com/user-attachments/assets/b7d714f1-b75f-4d92-a04c-11448328e0c1" />
+
+
